@@ -1,0 +1,4 @@
+markitdown[all]>=0.0.1
+azure-functions>=1.19.0
+requests>=2.32.0
+
